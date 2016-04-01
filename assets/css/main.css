@@ -1893,7 +1893,7 @@
 		-webkit-transition: border-color 0.2s ease;
 		-ms-transition: border-color 0.2s ease;
 		transition: border-color 0.2s ease;
-		background-color: 		#3a5fcd;
+		background-color: 	rgba(90, 56, 144, 0.55);
 		border: solid 1px !important;
 		border-color: rgba(255, 255, 255, 0.15) !important;
 		border-radius: 3em;
